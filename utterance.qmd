@@ -1,0 +1,21 @@
+---
+title: testing Giscus in Quarto
+format: html
+brand:
+  light: united-brand.yml
+  # dark: slate-brand.yml
+respect-user-color-scheme: true
+# theme:
+#   light: cosmo
+#   dark: solar
+comments:
+  utterances:
+    repo: quarto-dev/quarto-docs
+---
+
+## Let's try Utterance in Quarto!
+
+{{< lipsum 7 >}}
+Please comment below!
+
+
